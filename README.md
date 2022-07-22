@@ -5,4 +5,4 @@ This project is about a supervised machine learning implementation in order to p
 ### Steps
 You should run the main file and create the model.
 
-# Then you can create the Fast API with the model you created
+Then you can create the Fast API with the model you created
