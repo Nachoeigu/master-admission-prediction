@@ -1,6 +1,5 @@
 import pandas as pd
 from imblearn.over_sampling import SMOTE
-from pytest import param
 from sklearn.compose import ColumnTransformer
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.impute import SimpleImputer
